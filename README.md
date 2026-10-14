@@ -1,7 +1,7 @@
 # Juego del Ahorcado
 
 ## Autores:
-- Richart Escobedo (100%)
+- Richart Escobedo Quispe (100%)
 - Juan Perez (50%)
 - Rosa Teves (0%)
 
